@@ -1,0 +1,2 @@
+# Samsung
+ex1
